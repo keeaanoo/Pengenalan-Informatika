@@ -15,13 +15,15 @@ Campign : Join Keanu on a pixelated adventure like no other! In a world overrun 
 
 ## 2. User Story
 
-As a | I want to | So that | Priority
+As a | I want/need | So that | Priority
 ---|---|---|---
 Player | Move my character | I can walk around | ⭐⭐⭐⭐⭐
-Player | Pick a weapon | I can fight the enemy| ⭐⭐⭐⭐⭐
+Player | Pick a weapon | I can fight the enemy| ⭐⭐⭐⭐
 Player | Explore the map | i can experience the excitment exploring in the zombie apocalypse | ⭐⭐⭐⭐⭐
-Player | Move my character | I can explore the map | ⭐⭐⭐⭐⭐
-Player | Move my character | I can explore the map | ⭐⭐⭐⭐⭐
+Player | Solve a puzzle | I can escape the apocalypse| ⭐⭐⭐
+Pixel art enthusiast | enjoy the pixel art of the game | I can enjoy the game even more | ⭐⭐⭐⭐
+Player | Interact with npc | I can get a quest/objective | ⭐⭐⭐⭐
+Player | a various maps | I don't get bored easly| ⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -39,12 +41,12 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Godot 4
+an open-source, cross-platform game engine and game development environment. It is known for its user-friendly interface, versatility, and the ability to create both 2D and 3D games. 
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+(https://interfaceingame.com/wp-content/uploads/stardew-valley/stardew-valley-journal-updated-500x281.png)
 
 ## 7. Demonstrasi Video
 
