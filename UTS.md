@@ -3,13 +3,15 @@
 As I grew up, I played many 2D pixel games, because yk they didn't need high-end specs. Over time, I began to enjoy and appreciate how the games work as well as their visual style. I also started to like pixel art. Besides playing 2D games, I loved watching zombie-themed movies and series, which got me thinking – why not create my own 2D pixel zombie themed game? so here it is Keanu's Escape Odyssey : Infected Outbreak
 
 ## 1.2. Deksripsi Teknologi Informasi
-
+"Keanu's Escape Odyssey: Infected Outbreak" is an 2D pixel art game that thrusts you into a world ravaged by Zombies. As Keanu, you'll navigate through the pixelated map, solve puzzles etc, all while surviving. Make choices that impact your fate and those of other survivors, escape the nightmare, and survive the infected apocalypse.
 
 
 ## 1.3. Branding
 
-Merk    : Keanu's Escape Odyssey : Infected Outbreak
-Tagline : Survive, Solve, and Escape the Infected Outbreak with Keanu!
+Merk    : Keanu's Escape Odyssey : Infected Outbreak 
+
+Tagline : Survive, Solve, and Escape the Infected Outbreak with Keanu! 
+
 Campign : Join Keanu on a pixelated adventure like no other! In a world overrun by the infected, you'll need to strategize, solve puzzles, and fight your way through hordes of infected to escape the Outbreak
 
 
