@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-As I grew up, I played many 2D pixel games because they didn't need high-end specs. Over time, I began to enjoy and appreciate how the games work and their visual style. I also started to like pixel art. Besides playing 2D games, I loved watching zombie-themed movies and series, which got me thinking – why not create my own 2D pixel zombie themed game? so here it is Keanu's Escape Odyssey : Infected Outbreak
+As I grew up, I played many 2D pixel games, because yk they didn't need high-end specs. Over time, I began to enjoy and appreciate how the games work as well as their visual style. I also started to like pixel art. Besides playing 2D games, I loved watching zombie-themed movies and series, which got me thinking – why not create my own 2D pixel zombie themed game? so here it is Keanu's Escape Odyssey : Infected Outbreak
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -15,9 +15,13 @@ Campign : Join Keanu on a pixelated adventure like no other! In a world overrun 
 
 ## 2. User Story
 
-As a | I want to be able to | So that | Priority
+As a | I want to | So that | Priority
 ---|---|---|---
-Player | Move my character | I can walk around the map | ⭐⭐⭐⭐⭐
+Player | Move my character | I can walk around | ⭐⭐⭐⭐⭐
+Player | Pick a weapon | I can fight the enemy| ⭐⭐⭐⭐⭐
+Player | Explore the map | i can experience the excitment exploring in the zombie apocalypse | ⭐⭐⭐⭐⭐
+Player | Move my character | I can explore the map | ⭐⭐⭐⭐⭐
+Player | Move my character | I can explore the map | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
