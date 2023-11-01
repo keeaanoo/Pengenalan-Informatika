@@ -32,8 +32,9 @@ User Experience theme :
 
 
 Design inspiration :
-![abc]([https://img.itch.zone/aW1hZ2UvNzY2MzE2LzQ4Mjg2MDUucG5n/original/VNLNvM.png])
 
+![abc](https://interfaceingame.com/wp-content/uploads/stardew-valley/stardew-valley-journal-updated-500x281.png)
+![abc](https://static.wikia.nocookie.net/539711a4-57e2-4764-bd25-b70ec0f1e1ac/scale-to-width/755)
 ## 2. User Story
 
 As a | I want/need | So that | Priority
@@ -45,6 +46,7 @@ Player | Solve a puzzle | I can escape the apocalypse| ⭐⭐⭐
 Pixel art enthusiast | enjoy the pixel art of the game | I can enjoy the game even more | ⭐⭐⭐⭐
 Player | Interact with npc | I can get a quest/objective | ⭐⭐⭐⭐
 Player | a various maps | I don't get bored easly| ⭐⭐⭐
+Player | Save game progress | Continue my progress | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
