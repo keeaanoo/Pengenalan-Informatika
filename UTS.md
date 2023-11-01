@@ -17,17 +17,13 @@ Campaign : Join Keanu on a pixelated adventure like no other! In a world overrun
 User Target :
 
     - Age 10+
-    
     - 2d pixel game enthusiast
-    
     - Pixel art enthusiast
 
 User Experience theme :
 
     - Easy
-
     - Simple
-
     - Pixelated
 
 
