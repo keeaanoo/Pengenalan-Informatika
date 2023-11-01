@@ -12,8 +12,27 @@ Merk    : Keanu's Escape Odyssey : Infected Outbreak
 
 Tagline : Survive, Solve, and Escape the Infected Outbreak with Keanu! 
 
-Campign : Join Keanu on a pixelated adventure like no other! In a world overrun by the infected, you'll need to strategize, solve puzzles, and fight your way through hordes of infected to escape the Outbreak
+Campaign : Join Keanu on a pixelated adventure like no other! In a world overrun by the infected, you'll need to strategize, solve puzzles, and fight your way through hordes of infected to escape the Outbreak
 
+User Target :
+
+    - Age 10+
+    
+    - 2d pixel game enthusiast
+    
+    - Pixel art enthusiast
+
+User Experience theme :
+
+    - Easy
+
+    - Simple
+
+    - Pixelated
+
+
+Design inspiration :
+![abc]([https://img.itch.zone/aW1hZ2UvNzY2MzE2LzQ4Mjg2MDUucG5n/original/VNLNvM.png])
 
 ## 2. User Story
 
