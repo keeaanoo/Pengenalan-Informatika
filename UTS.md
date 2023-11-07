@@ -8,7 +8,7 @@ As I grew up, I played many 2D pixel games, because yk they didn't need high-end
 
 ## 1.3. Branding
 
-Merk    : Keanu's Escape Odyssey : Infected Outbreak 
+Merk    : Keanu's Odyssey : Infected Outbreak 
 
 Tagline : Survive, Solve, and Escape the Infected Outbreak with Keanu! 
 
