@@ -46,7 +46,7 @@ Player | a various maps | I don't get bored easly| ⭐⭐⭐
 Player | Save game progress | Continue my progress | ⭐⭐⭐⭐
 Player | Access inventroy | manage my items | ⭐⭐⭐⭐
 Player | Cuztomize character| Edit the character | ⭐⭐
-Player | Cuztomize character| Edit the character | ⭐⭐
+Player | Craft item | Make an item | ⭐⭐⭐
 
 ## 3. Struktur Data
 
