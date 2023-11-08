@@ -68,7 +68,7 @@ Quest{
     }
 Level{
         int    Level
-        String    nama level
+        String    nama_level
     }
 Enemy{
         String    Enemy_name
