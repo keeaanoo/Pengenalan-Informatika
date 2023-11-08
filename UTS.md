@@ -7,6 +7,7 @@ As I grew up, I played many 2D pixel games, because yk they didn't need high-end
 
 
 ## 1.3. Branding
+![adwad](https://github.com/keeaanoo/Pengenalan-Informatika/blob/main/Keanu's%20Odyssey.png)
 
 Merk    : Keanu's Odyssey : Infected Outbreak 
 
