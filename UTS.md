@@ -54,8 +54,6 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-
-```
  Player{
         String  Player_Nicname
         int     Player_ID
@@ -75,10 +73,11 @@ Level{
 Enemy{
         String    Enemy_name
         int    Enemy_Id
+    {
 
-Player
-
-Player
+Player||--o{Item :
+```
+ 
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
