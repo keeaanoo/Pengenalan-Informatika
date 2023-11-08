@@ -79,7 +79,7 @@ Player||--o{Item : mempunyai
 ```
  
 ## 4. Arsitektur Sistem
-
+```mermaid
 flowchart TD
     subgraph ARSITEKTUR SISTEM
 
@@ -90,7 +90,7 @@ flowchart TD
     D-->E[PC, Computer]
     D-->F[Android,IOS]
 
-
+```
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
