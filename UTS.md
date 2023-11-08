@@ -71,7 +71,10 @@ Quest{
 Level{
         int    Level
         String    nama level
-}
+    }
+Enemy{
+        String    Enemy_name
+        int    Enemy_Id
 
 Player
 
@@ -82,8 +85,9 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-Godot 4
-an open-source, cross-platform game engine and game development environment. It is known for its user-friendly interface, versatility, and the ability to create both 2D and 3D games. 
+-Godot 4, an open-source, cross-platform game engine and game development environment. It is known for its user-friendly interface, versatility, and the ability to create both 2D and 3D games. 
+
+-Aseprite, a proprietary, source-available image editor designed primarily for pixel art drawing and animation. It runs on Windows, macOS, and Linux, and features different tools for image and animation editing such as layers, frames, tilemap support, command-line interface, Lua scripting, among others. It is developed by Igara Studio S.A. and led by the developers David, Gaspar, and Martín Capello.[2] Aseprite can be downloaded as freeware, or purchased on Steam or Itch.io.
 
 ## 6. Desain User Experience dan User Interface
 
