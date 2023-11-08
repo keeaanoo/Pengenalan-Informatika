@@ -51,7 +51,6 @@ Player | Craft item | Make an item | ⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 ```mermaid
 erDiagram
  Player{
@@ -73,11 +72,11 @@ Level{
 Enemy{
         String    Enemy_name
         int    Enemy_Id
-    {
+    }
 
-Player||--o{Item : mempunyai
-```
- 
+    Player||--o{Item : own
+    Player||--o{Quest : do
+ ```
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart TD
