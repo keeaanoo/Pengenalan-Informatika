@@ -75,10 +75,21 @@ Enemy{
         int    Enemy_Id
     {
 
-Player||--o{Item :
+Player||--o{Item : mempunyai
 ```
  
 ## 4. Arsitektur Sistem
+
+flowchart TD
+    subgraph ARSITEKTUR SISTEM
+
+    A[Datbase : MySQL] <--> B[Aplikasi Backend : Godot, GD Script]
+    B --> C[Aplikasi web server: Godot server]
+    end
+    C<-->D{Aplikasi}
+    D-->E[PC, Computer]
+    D-->F[Android,IOS]
+
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
