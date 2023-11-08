@@ -44,6 +44,9 @@ Pixel art enthusiast | enjoy the pixel art of the game | I can enjoy the game ev
 Player | Interact with npc | I can get a quest/objective | ⭐⭐⭐⭐
 Player | a various maps | I don't get bored easly| ⭐⭐⭐
 Player | Save game progress | Continue my progress | ⭐⭐⭐⭐
+Player | Access inventroy | manage my items | ⭐⭐⭐⭐
+Player | Cuztomize character| Edit the character | ⭐⭐
+Player | Cuztomize character| Edit the character | ⭐⭐
 
 ## 3. Struktur Data
 
@@ -51,10 +54,28 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
 
+```
+ Player{
+        String  Player_Nicname
+        int     Player_ID
+    }
+ Item{
+        int     Item_Id
+        String     Item_Name
+    }
+Quest{
+        int    Quest_Id
+        String    Quest_Name
+    }
+Level{
+        int    Level
+        String    nama level
+}
+
+Player
+
+Player
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
