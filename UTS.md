@@ -57,6 +57,8 @@ erDiagram
  Player{
         String  Player_Nicname
         int     Player_ID
+        int     Health_Point
+        String  Equipment
     }
  Item{
         int     Item_Id
@@ -70,7 +72,7 @@ Level{
         int    Level
         String    nama_level
     }
-Enemy{
+zombie{
         String    Enemy_name
         int    Enemy_Id
     }
