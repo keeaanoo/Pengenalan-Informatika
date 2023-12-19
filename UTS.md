@@ -80,11 +80,19 @@ zombie{
 Main_menu{
         String Start
         String Exit
-}
+        String Option
+    }
+settings{
+        String Master_volume
+        String Music
+    }
 
+    Main_menu||..||settings
     Player||--o{Item : own
     Player||--o{Quest : do
     Player||--o{zombie : fight
+    Player||--o{level
+    zombie||--o{level
  ```
 ## 4. Arsitektur Sistem
 ```mermaid
