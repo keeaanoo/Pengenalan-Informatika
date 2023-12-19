@@ -91,8 +91,8 @@ settings{
     Player||--o{Item : own
     Player||--o{Quest : do
     Player||--o{zombie : fight
-    Player||--o{level : has
-    zombie||--o{level : has
+    Player||--o{Level : has
+    zombie||--o{Level : has
  ```
 ## 4. Arsitektur Sistem
 ```mermaid
