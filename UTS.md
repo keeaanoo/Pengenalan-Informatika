@@ -87,7 +87,7 @@ settings{
         String Music
     }
 
-    Main_menu||..||settings
+    Main_menu||--||settings
     Player||--o{Item : own
     Player||--o{Quest : do
     Player||--o{zombie : fight
