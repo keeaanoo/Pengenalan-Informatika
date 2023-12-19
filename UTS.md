@@ -62,23 +62,29 @@ erDiagram
     }
  Item{
         int     Item_Id
-        String     Item_Name
+        String  Item_Name
+        String  Item_Ability
     }
 Quest{
         int    Quest_Id
-        String    Quest_Name
+        String Quest_Name
     }
 Level{
         int    Level
-        String    nama_level
+        String nama_level
     }
 zombie{
-        String    Enemy_name
+        String Enemy_name
         int    Enemy_Id
     }
+Main_menu{
+        String Start
+        String Exit
+}
 
     Player||--o{Item : own
     Player||--o{Quest : do
+    Player||--o{zombie : fight
  ```
 ## 4. Arsitektur Sistem
 ```mermaid
