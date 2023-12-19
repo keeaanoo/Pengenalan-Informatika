@@ -87,12 +87,12 @@ settings{
         String Music
     }
 
-    Main_menu||--||settings
+    Main_menu||--||settings : click
     Player||--o{Item : own
     Player||--o{Quest : do
     Player||--o{zombie : fight
-    Player||--o{level
-    zombie||--o{level
+    Player||--o{level : has
+    zombie||--o{level : has
  ```
 ## 4. Arsitektur Sistem
 ```mermaid
